@@ -11,7 +11,7 @@
 <h1 class="title text-center color-primary"> ADVocê </h1>
 
 <div class="full-w text-center">
-    <img src="/assets/upload/img/a64f614e4ea8a350241e8784bc17f772.png" class="img-capa mb-4">
+    <img src="/public/assets/upload/img/a64f614e4ea8a350241e8784bc17f772.png" class="img-capa mb-4">
 </div>
 
 <div class="container-description">
@@ -38,19 +38,19 @@
 <table class="table-desc" style="border-collapse: collapse; width: 100.179%; border-width: 0px; border-style: none; margin-left: auto; margin-right: auto; height: 828.453px;" border="1"><colgroup><col style="width: 50.4874%;"><col style="width: 49.5045%;"></colgroup>
 <tbody>
 <tr style="height: 382.234px;">
-<td style="border-width: 0px; height: 382.234px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="../../../assets/upload/img/tiny/65a7cbf3865a6.png" alt="" width="500" height="354"></td>
-<td style="border-width: 0px; height: 382.234px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="../../../assets/upload/img/tiny/65a7cc42ba948.png" alt="" width="500"></td>
+<td style="border-width: 0px; height: 382.234px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/public/assets/upload/img/tiny/65a7cbf3865a6.png" alt="" width="500" height="354"></td>
+<td style="border-width: 0px; height: 382.234px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/public/assets/upload/img/tiny/65a7cc42ba948.png" alt="" width="500"></td>
 </tr>
 <tr style="height: 446.219px;">
-<td style="border-width: 0px; height: 446.219px; text-align: center;"><img src="../../../assets/upload/img/tiny/65a7ccdcc64db.png" alt="" width="500"></td>
-<td style="border-width: 0px; height: 446.219px; text-align: center;"><img src="../../../assets/upload/img/tiny/65a7cd91e065e.png" alt="" width="500"></td>
+<td style="border-width: 0px; height: 446.219px; text-align: center;"><img src="/public/assets/upload/img/tiny/65a7ccdcc64db.png" alt="" width="500"></td>
+<td style="border-width: 0px; height: 446.219px; text-align: center;"><img src="/public/assets/upload/img/tiny/65a7cd91e065e.png" alt="" width="500"></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><img class="img-desc-full" src="../../../assets/upload/img/tiny/65a7ce3aca22c.png" alt="" width="500" height="234"></p>
-<p style="text-align: center;"><img class="img-desc-full img-hidden" src="../../../assets/upload/img/tiny/65a7cbf3865a6.png" alt="" width="500" height="354"></p>
-<p style="text-align: center;"><img class="img-desc-full img-hidden" src="../../../assets/upload/img/tiny/65a7cc42ba948.png" alt="" width="500" height="360"></p>
-<p style="text-align: center;"><img class="img-desc-full img-hidden" src="../../../assets/upload/img/tiny/65a7ccdcc64db.png" alt="" width="500" height="384"></p>
-<p style="text-align: center;"><img class="img-desc-full img-hidden" src="../../../assets/upload/img/tiny/65a7cd91e065e.png" alt="" width="500" height="362"></p>
+<p style="text-align: center;"><img class="img-desc-full" src="/public/assets/upload/img/tiny/65a7ce3aca22c.png" alt="" width="500" height="234"></p>
+<p style="text-align: center;"><img class="img-desc-full img-hidden" src="/public/assets/upload/img/tiny/65a7cbf3865a6.png" alt="" width="500" height="354"></p>
+<p style="text-align: center;"><img class="img-desc-full img-hidden" src="/public/assets/upload/img/tiny/65a7cc42ba948.png" alt="" width="500" height="360"></p>
+<p style="text-align: center;"><img class="img-desc-full img-hidden" src="/public/assets/upload/img/tiny/65a7ccdcc64db.png" alt="" width="500" height="384"></p>
+<p style="text-align: center;"><img class="img-desc-full img-hidden" src="/public/assets/upload/img/tiny/65a7cd91e065e.png" alt="" width="500" height="362"></p>
 </div>
 @endsection
