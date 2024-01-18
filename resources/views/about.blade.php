@@ -1,4 +1,4 @@
-@extends('layout');
+@extends('layout')
 
 @section('content')
     <h1 class="title color-secondary text-center mb-5">Sobre <span class="color-primary">mim</span></h1>
