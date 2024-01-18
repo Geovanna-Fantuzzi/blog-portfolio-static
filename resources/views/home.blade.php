@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="home-container d-flex justify-content-evenly align-items-center">
-        <img src="{{ asset(assets/img/notebook.png) }}" alt="Imagem de um notebook" class="img-home">
+        <img src="/assets/img/notebook.png" alt="Imagem de um notebook" class="img-home">
         <div class="text-center">
             <h1 class="title color-primary"><i class="fa-solid fa-minus"></i> Meu nome é Geovanna.</h1>
             <h1 class="mb-4">Programadora WEB</h1>
