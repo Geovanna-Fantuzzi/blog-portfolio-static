@@ -35,7 +35,7 @@
                 </div>
                 <div class="p-4">
                     <div class="row">
-                        <a class="btn btn-outline-primary" href="/assets/upload/Currículo.pdf"
+                        <a class="btn btn-outline-primary" href="/assets/upload/Currículo_Geovanna_Fantuzzi.pdf"
                             download="Currículo">Currículo <i class="fa-solid fa-download"></i></a>
                     </div>
                 </div>
