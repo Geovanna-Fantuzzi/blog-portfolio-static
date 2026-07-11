@@ -75,6 +75,22 @@ composer install --ignore-platform-reqs
 
 <img width="1915" height="906" alt="fafb42861483921afc3f441b64d404c1" src="https://github.com/user-attachments/assets/ef889498-d3f6-4ef5-8e54-d9805bd708b5" />
 
+* Sobre mim
+
+<img width="1365" height="578" alt="Captura de tela 2026-07-11 094018" src="https://github.com/user-attachments/assets/cb8bbe1b-3df7-47ef-8442-96dd2f061154" />
+
+<img width="1363" height="576" alt="Captura de tela 2026-07-11 114154" src="https://github.com/user-attachments/assets/bbe70c31-3412-47ca-9e8c-a42ac79d5f06" />
+
+<img width="1365" height="394" alt="Captura de tela 2026-07-11 114355" src="https://github.com/user-attachments/assets/dea9ab1e-26b0-4f3d-a808-5458bce40f6a" />
+
+* Portfolio
+
+<img width="1363" height="591" alt="Captura de tela 2026-07-11 094403" src="https://github.com/user-attachments/assets/bf496c11-7639-416e-852a-5e3f290dd62c" />
+
+* Blog
+
+<img width="1363" height="593" alt="Captura de tela 2026-07-11 113726" src="https://github.com/user-attachments/assets/f94ce5a0-8619-4c5f-937f-6e01cef9c450" />
+
 ### 🔐 Painel Administrativo (Removido temporáriamente)
 
 * Lista de categorias
