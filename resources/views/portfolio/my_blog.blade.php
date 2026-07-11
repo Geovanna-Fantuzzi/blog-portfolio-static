@@ -10,7 +10,7 @@
 
 <h1 class="title text-center color-primary"> Meu Blog Portfolio </h1>
 
-<div class="full-w text-center">
+<div class="full-w m-auto text-center">
     <img src="/assets/upload/img/fafb42861483921afc3f441b64d404c1.png" class="img-capa mb-4">
 </div>
 

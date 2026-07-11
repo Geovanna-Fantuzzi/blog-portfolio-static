@@ -5,19 +5,19 @@
 
     <div class="list-categories p-2">
         <ul class="list-group d-flex flex-row justify-content-around">
-            <li class="p-4">
+            <li class="p-3">
                 <a href="{{ route('blog.categorie', ['categorie' => 'Dicas']) }}" class="link color-secondary">Dicas</a>
             </li>
-            <li class="p-4">
+            <li class="p-3">
                 <a href="{{ route('blog.categorie', ['categorie' => 'PHP']) }}" class="link color-secondary">PHP</a>
             </li>
-            <li class="p-4">
+            <li class="p-3">
                 <a href="{{ route('blog.categorie', ['categorie' => 'Laravel']) }}" class="link color-secondary">Laravel</a>
             </li>
-            <li class="p-4">
+            <li class="p-3">
                 <a href="{{ route('blog.categorie', ['categorie' => 'SQL']) }}" class="link color-secondary">SQL</a>
             </li>
-            <li class="p-4">
+            <li class="p-3">
                 <a href="{{ route('blog.categorie', ['categorie' => 'Bibliotecas']) }}"
                     class="link color-secondary">Bibliotecas</a>
             </li>

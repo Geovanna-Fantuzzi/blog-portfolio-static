@@ -10,7 +10,7 @@
 
 <h1 class="title text-center color-primary"> ProTSA </h1>
 
-<div class="full-w text-center">
+<div class="full-w m-auto text-center">
     <img src="/assets/upload/img/bb663a6ce182c2a8c4736cea243cd77a.png" class="img-capa mb-4">
 </div>
 

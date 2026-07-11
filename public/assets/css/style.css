@@ -225,7 +225,15 @@ textarea::placeholder {
 
 .img-post {
     margin: 0 auto;
-    height: 350px;
+    height: auto;
+    width: 60vw;
+    border-radius: 5px;
+}
+
+.img-post-mini {
+    margin: 0 auto;
+    height: auto;
+    width: 30vw;
     border-radius: 5px;
 }
 
@@ -236,7 +244,7 @@ textarea::placeholder {
 }
 
 .full-w {
-    width: calc(100vw - 6.5rem);
+    width: calc(100vw - 7.5rem);
     margin-left: -1rem;
     padding-left: 0;
 }
@@ -306,6 +314,20 @@ textarea::placeholder {
     .img-home {
         max-width: 380px;
     }
+
+    .img-post {
+    margin: 0 auto;
+    height: auto;
+    width: 80vw;
+    border-radius: 5px;
+    }
+
+    .img-post-mini {
+    margin: 0 auto;
+    height: auto;
+    width: 80vw;
+    border-radius: 5px;
+}
 
     .p-home {
         font-size: 18px;
