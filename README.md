@@ -1,4 +1,4 @@
-# :tada: Site portfolio
+# :tada: Site Portfolio
 
 Esse site foi desenvolvido para apresentar meu currículo e portfolio, possui um painel administrativo que auxilia no gerenciamento do site e nas postagens do blog.
 
